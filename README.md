@@ -5,4 +5,6 @@
 2. ```./gradlew run```
 
 3. Check the logs.
+4. ```docker-compose down```
+5. ```docker container prune```
 
